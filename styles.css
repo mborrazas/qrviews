@@ -17,6 +17,10 @@ html {
     height: 294px;
 }
 
+.col a {
+    width: 100%;
+}
+
 #home #titleHeader {
     padding-right: 88px;
     color: rgb(0, 0, 0);
